@@ -1,4 +1,4 @@
-### I'm Liya Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm Liya~ Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
 <a href="https://ibb.co/ZTk0C0n"><img src="https://i.ibb.co/h8tSvSP/on-Twitter-picsay.png" alt="on-Twitter-picsay" border="0"></a>
 </p>
@@ -10,12 +10,12 @@
 <a href="#"><img title="liya-bot-wa" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/syarifbot"><img title="Author" src="https://img.shields.io/badge/SYARIF BOT-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SyarifGans"><img title="Author" src="https://img.shields.io/badge/SYARIF BOT-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/syarifbot/botliya/followers"><img title="Followers" src="https://img.shields.io/github/followers/syarifbot?style=flat-square"></a>
-<a href="https://github.com/syarifbot/botliya/network/members"><img title="Forks" src="https://img.shields.io/github/forks/syarifbot/botliya?style=flat-square"></a>
-<a href="https://github.com/syarifbot/botliya/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FarhanXCode7/termux-bot-wa?style=flat-square"></a>
+<a href="https://github.com/SyarifGans/botliya/followers"><img title="Followers" src="https://img.shields.io/github/followers/SyarifGans?style=flat-square"></a>
+<a href="https://github.com/SyarifGans/botliya/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SyarifGans/botliya?style=flat-square"></a>
+<a href="https://github.com/SyarifGans/botliya/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FarhanXCode7/termux-bot-wa?style=flat-square"></a>
 
 </p>
 
