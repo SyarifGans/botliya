@@ -55,7 +55,7 @@ Follow The Steps Below!
 <a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-Liya--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-<img src="https://i.ibb.co/27z2b7d/on-Twitter-picsay.jpg" alt="on-Twitter-picsay" border="0"></a>
+
 
 ## Features
 
