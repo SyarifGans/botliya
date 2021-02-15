@@ -1,4 +1,4 @@
-### I'm Liya-Bot Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm Liya Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
 <a href="https://ibb.co/ZTk0C0n"><img src="https://i.ibb.co/h8tSvSP/on-Twitter-picsay.png" alt="on-Twitter-picsay" border="0"></a>
 </p>
