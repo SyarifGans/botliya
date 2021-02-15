@@ -52,10 +52,10 @@ Follow The Steps Below!
 ```
 
 <p align="center">
-<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TAMPILAN--MENU-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-Liya--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/Screenshot_2021-01-29-18-18-32-18.jpg" width="450px" height="650px">
+<img src="https://i.ibb.co/27z2b7d/on-Twitter-picsay.jpg" alt="on-Twitter-picsay" border="0"></a>
 
 ## Features
 
@@ -254,6 +254,6 @@ Follow The Steps Below!
 
 ## Group
 
-* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/GEIZpKeQOMjFn5tTJ1uHvx"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
